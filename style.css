@@ -1,0 +1,16 @@
+@import url('https://fonts.google.com/specimen/Roboto');
+.navbar li a:hover{
+    color: rgba(0, 238, 255, 0.571) !important;
+}
+.navbar li a{
+    color: black !important;
+    font-family: Roboto;
+    font-size: 13px;
+}
+.navbar li a:active{
+    color: rgba(0, 238, 255, 0.571) ;
+}
+footer{
+    background-color: black;
+    color: white;
+}
